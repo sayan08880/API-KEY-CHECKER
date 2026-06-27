@@ -186,9 +186,6 @@ This project is released under the MIT License.
 GitHub:
 https://github.com/sayan08880
 
-Portfolio:
-https://sayan08880.github.io/PORTFOLIO/
-
 LinkedIn:
 https://linkedin.com/in/sayan-mahalanabish-4278571b6
 
