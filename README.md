@@ -201,6 +201,6 @@ https://linkedin.com/in/sayan-mahalanabish-4278571b6
 ---
 ## 🌐 Live Demo
 
-### 🔐 [API Checker](https://sayan-port.rf.gd/)
+### 🔐 [API Checker](https://apicheck080.netlify.app/)
 
 
