@@ -194,5 +194,6 @@ https://linkedin.com/in/sayan-mahalanabish-4278571b6
 
 ---
 ## Image 
-<p>WEB PAGE</p><br>
-![Banner](/IMAGE/P1.png)
+## 🖼️ Web Page
+
+![Web Page](IMAGE/P1.png)
